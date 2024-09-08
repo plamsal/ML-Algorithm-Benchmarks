@@ -1,3 +1,8 @@
+
+### 1.1 Hypothesis
+Start with a clear hypothesis: What are you trying to prove or discover about the algorithms (Neural Network, KNN, and SVM) across two different datasets? Outline your experimental steps to test this hypothesis.
+
+
 # Algorithm Comparison and Performance Analysis
 
 The goal of this project is to understand various machine learning algorithms and techniques by experimenting with them and comparing their performance empirically under a variety of circumstances. Instead of focusing solely on implementing each algorithm, I am primarily focused on exploring their behavior through experimentation and analysis.
