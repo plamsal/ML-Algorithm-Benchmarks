@@ -1,6 +1,10 @@
 
 ### 1.1 Hypothesis
-Start with a clear hypothesis: What are you trying to prove or discover about the algorithms (Neural Network, KNN, and SVM) across two different datasets? Outline your experimental steps to test this hypothesis.
+Hypothesis: "For the brain tumor classification dataset, 
+a Neural Network model will outperform K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) 
+in terms of classification accuracy due to its ability to capture complex patterns in the data. 
+However, KNN might be more efficient for small datasets, 
+and SVM may offer a balance between interpretability and performance."
 
 
 # Algorithm Comparison and Performance Analysis
